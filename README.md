@@ -19,5 +19,3 @@ The project involves the development of a chest X-ray image classification model
 - Developed and deployed a chest X-ray image classification model on AWS SageMaker.
 - Achieved a test accuracy of 96.5% using the DenseNet-169 model.
 - Implemented a 3-class classification system for normal cases, COVID-19 infections, and pneumonia cases.
-- Integrated AWS Lambda for seamless and scalable cloud-based inference.
-- Optimized image storage and retrieval through AWS S3.
